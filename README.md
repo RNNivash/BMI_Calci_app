@@ -9,6 +9,11 @@ Welcome to BMI_Calcii, your handy BMI calculator application. BMI_Calcii not onl
 - **Health Suggestions**: Receive personalized suggestions for maintaining or improving your BMI category and overall health.
 - **User-Friendly Interface**: The app offers a simple and intuitive interface for effortless BMI calculation and interpretation.
 
+![Simulator Screenshot - iPhone 15 - 2024-02-27 at 12 38 34](https://github.com/RNNivash/BMI_Calci_app/assets/90308206/2d0b6309-2da6-44f8-80a9-11e2c73e5d07)
+![Simulator Screenshot - iPhone 15 - 2024-02-27 at 12 38 20](https://github.com/RNNivash/BMI_Calci_app/assets/90308206/001b396a-61b1-4b02-8bbb-c8604720ea78)
+
+
+
 ## How to Use
 
 1. **Input Details**: Enter your gender, weight in kilograms, height in centimeters, and age into the respective fields.
